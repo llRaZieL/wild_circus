@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+		<!-- En-tête de la page -->
+        <meta charset="utf-8" />
+		<link rel="stylesheet" href="style.css" />
+        <title>Wild Circus</title>
+
+    </head>
+
+
+    <body>
+	<!-- Corps de la page -->	
+    <h1><img src="images/wildcircus.png"></h1>
+	
+	<p>The Wild Circus is delighted to welcome you into the family of circus.</p>
+		<br>
+		<hr>
+		<br>
+	<h2>The Program</h2>
+	<!-- Le Programme -->
+	<ul>
+		<li>a new number, exotic animals (camels, zebras and lamas) under the direction of Sancho Montez.</li>
+		<li>In the air, it is the quintessence of delicacy and elegance, Vasily</li>
+		<li>intermission</li>
+		<li>They come to us from Brazil, at the flying trapeze Flying Galeoty</li>
+	</ul>
+	
+	<h3>Performances</h3>
+		<!-- Liste des Performances -->
+	<ul>
+		<li><a href="performances/sancho.html" target="_blank">Sancho Montez and such exotic animals</a></li>
+		<li><a href="performances/vasily.html" target="_blank">Vasily rope</a></li>
+		<li><a href="performances/flying.html" target="_blank">Flying Galeoty the trapeze</a></li>
+	</ul>
+
+    </body>
+
+</html>
